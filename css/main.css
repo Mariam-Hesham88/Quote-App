@@ -1,0 +1,50 @@
+*{
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+section {
+    background-color: #E08E6D;
+}
+
+h1{
+    font-size: 80px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    color: #D25380;
+}
+
+h5{
+    font-size: 35px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFFAF4;
+}
+
+button{
+    background-color: #D25380;
+    color: #FFFAF4;
+    border: 0;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 0 0 10px 0;
+}
+
+p{
+    font-size: 35px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    padding: 20px;
+    color: #D25380;
+}
+
+.quote{
+    width: 80%;
+    margin: auto;
+    background-color: #FFFAF4;
+    border-radius: 12px;
+    border: solid 4px #D25380;
+}
